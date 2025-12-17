@@ -67,7 +67,10 @@ This is our most advanced feature. The design changes based on the device.
     1.  **Step 1:** Info Screen (Working hours & "Start" button).
     2.  **Step 2:** The Chat Interface (Scrolls down smoothly).
 
-<img src="hci-project/Presentation/Images/live-chat-1-mobile.png" width=28%> <img src="hci-project/Presentation/Images/live-chat-2-mobile.png" width="28%">
+<p align="center">
+  <img src="hci-project/Presentation/Images/live-chat-1-mobile.png" width="28%" hspace="20">
+  <img src="hci-project/Presentation/Images/live-chat-2-mobile.png" width="28%" hspace="20">
+</p>
 
 *(Or go to the pdf Presentation Page 17)*
 
