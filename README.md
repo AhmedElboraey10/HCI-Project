@@ -21,13 +21,13 @@ The old design had several critical issues:
 * **Inconsistent Icons:** Different shapes and sizes made it confusing.
 * **Bad Experience:** The messy look frustrated students.
 
-<img src="hci-project/Presentation/Images/before.png" width=100%>
+<img src="hci-project/Presentation/Images/before.png" width=90%>
 ---
 
 ## The Solution (After)
 We redesigned the portal to be structured and user-friendly.
 
-<img src="hci-project/Presentation/Images/after.png" width=100%>
+<img src="hci-project/Presentation/Images/after.png" width=90%>
 
 ### 1. The Dashboard (Homepage)
 * **Big Search Bar:** We placed a large search bar in the center for quick access.
