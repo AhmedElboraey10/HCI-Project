@@ -1,6 +1,6 @@
 # Elementary Student Portal Redesign (HCI Task)
 
-This project is a redesign of an Elementary Student Portal . The goal was to apply **Human-Computer Interaction (HCI)** principles to fix usability issues and create a better experience for young students.
+This project is a redesign of an Elementary Student Portal. The goal was to apply **Human-Computer Interaction (HCI)** principles to fix usability issues and create a better experience for young students.
 
 ## Project Overview
 The original website was difficult for students to use. It was crowded, messy, and hard to navigate.
@@ -14,11 +14,14 @@ We focused on:
 ---
 
 ## The Problem (Before)
+
 The old design had several critical issues:
 * **Chaotic Layout:** Over 20 icons with no clear order.
 * **Hard to Search:** The search bar was small and hidden.
 * **Inconsistent Icons:** Different shapes and sizes made it confusing.
 * **Bad Experience:** The messy look frustrated students.
+
+**[View Full "Before" Analysis in PDF (Page 3)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=3)**
 
 ---
 
@@ -30,6 +33,8 @@ We redesigned the portal to be structured and user-friendly.
 * **Card Design:** We used uniform "cards" for all links to make them look tidy.
 * **Categories:** We organized tools into groups like "Learning Tools," "Library," and "Help".
 
+**[View Full "After" Design in PDF (Page 6)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=6)**
+
 ---
 
 ## Extended Features (New Support Pages)
@@ -40,22 +45,38 @@ We made it easy to find answers without reading too much text.
 * **Expandable Lists:** Answers are hidden until you click the question. This keeps the page clean.
 * **Mobile Friendly:** It looks great on small screens.
 
+[![FAQ Desktop](Images/faq-Desktop.png)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=14)
+[![FAQ Mobile](Images/faq-mobile.png)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=14)
+*(Click images to view details in Presentation Page 14)*
+
 ### 2. Contact Support
 We created a simple way for students to ask for help.
 * **Clear Forms:** Large input boxes that are easy to tap on touch screens.
 * **Distraction-Free:** We removed unnecessary elements so students can focus on writing their message.
 
+[![Contact Desktop](Images/contact-support-Desktop.png)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=15)
+[![Contact Mobile](Images/contact-support-mobile.png)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=15)
+*(Click images to view details in Presentation Page 15)*
+
 ### 3. Live Chat Support (Smart Layout)
 This is our most advanced feature. The design changes based on the device.
 
 * **Desktop View:** Shows the help information and the chat window side-by-side.
+
+[![Live Chat Desktop](Images/live-chat-Desktop.png)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=16)
+*(Click image to view details in Presentation Page 16)*
+
 * **Mobile View (Split Flow):** To save space on small screens, we split it into two steps:
     1.  **Step 1:** Info Screen (Working hours & "Start" button).
     2.  **Step 2:** The Chat Interface (Scrolls down smoothly).
 
+[![Live Chat Mobile 1](Images/live-chat-1-mobile.png)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=17)
+[![Live Chat Mobile 2](Images/live-chat-2-mobile.png)](HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#page=17)
+*(Click images to view details in Presentation Page 17)*
+
 ---
 
-## 🧠 HCI Principles Used
+##  HCI Principles Used
 We applied core Human-Computer Interaction principles to ensure success:
 * **Visibility:** Important things (like Search) are big and easy to see.
 * **Affordance:** Buttons look clickable.
@@ -64,7 +85,7 @@ We applied core Human-Computer Interaction principles to ensure success:
 
 ---
 
-## 👥 Team Members:
+##  Team Members:
 1.  **Ahmed Mohamed Elsayed Mohamed Elboray**
 2.  **Mahmoud Elhussieny Mohamed Mady**
 
