@@ -59,7 +59,7 @@ This is our most advanced feature. The design changes based on the device.
 
 * **Desktop View:** Shows the help information and the chat window side-by-side.
 
-<img src="hci-project/Presentation/Images/live-chat-Desktop.png" width=75%>
+<img src="hci-project/Presentation/Images/live-chat-Desktop.png" width=100%>
 
 *(Or go to the pdf Presentation Page 16)*
 
