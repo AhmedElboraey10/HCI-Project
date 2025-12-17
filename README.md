@@ -50,7 +50,7 @@ We created a simple way for students to ask for help.
 * **Clear Forms:** Large input boxes that are easy to tap on touch screens.
 * **Distraction-Free:** We removed unnecessary elements so students can focus on writing their message.
 
-<img src="hci-project/Presentation/Images/contact-support-Desktop.png" width=78%> <img src="hci-project/Presentation/Images/contact-support-mobile.png" width="21%">
+<img src="hci-project/Presentation/Images/contact-support-Desktop.png" width=79%> <img src="hci-project/Presentation/Images/contact-support-mobile.png" width="20%">
 
 *(Or go to the pdf Presentation Page 15)*
 
@@ -67,7 +67,7 @@ This is our most advanced feature. The design changes based on the device.
     1.  **Step 1:** Info Screen (Working hours & "Start" button).
     2.  **Step 2:** The Chat Interface (Scrolls down smoothly).
 
-<img src="hci-project/Presentation/Images/live-chat-1-mobile.png" width=29%> <img src="hci-project/Presentation/Images/live-chat-2-mobile.png" width="29%">
+<img src="hci-project/Presentation/Images/live-chat-1-mobile.png" width=28%> <img src="hci-project/Presentation/Images/live-chat-2-mobile.png" width="28%">
 
 *(Or go to the pdf Presentation Page 17)*
 
