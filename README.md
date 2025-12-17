@@ -69,7 +69,7 @@ This is our most advanced feature. The design changes based on the device.
 
 <p align="center">
   <img src="hci-project/Presentation/Images/live-chat-1-mobile.png" width="28%" hspace="20">
-    &emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="hci-project/Presentation/Images/live-chat-2-mobile.png" width="28%" hspace="20">
 </p>
 
