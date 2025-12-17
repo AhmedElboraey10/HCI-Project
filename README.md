@@ -21,7 +21,7 @@ The old design had several critical issues:
 * **Inconsistent Icons:** Different shapes and sizes made it confusing.
 * **Bad Experience:** The messy look frustrated students.
 
-**[View Full "Before" Analysis in PDF (Page 3)](hci-project/Presentation/HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf#?raw=true#page=3)**
+**[View Full "Before" Analysis in PDF (Page 3)](hci-project/Presentation/HCI-Task-Redesigning-the-Elementary-Student-Portal_compressed.pdf?raw=true#page=3)**
 
 ---
 
