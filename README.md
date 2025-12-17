@@ -41,9 +41,10 @@ We made it easy to find answers without reading too much text.
 * **Expandable Lists:** Answers are hidden until you click the question. This keeps the page clean.
 * **Mobile Friendly:** It looks great on small screens.
 
-[[FAQ Desktop](hci-project/Presentation/Images/faq-Desktop.png)] <img src="hci-project/Presentation/Images/faq-Desktop.png" width="300">
-[[FAQ Mobile](hci-project/Presentation/Images/faq-mobile.png)]
-*(Click images to view details or go to the pdf Presentation Page 14)*
+<img src="hci-project/Presentation/Images/faq-Desktop.png" width="300">
+<img src="hci-project/Presentation/Images/faq-mobile.png" width="100">
+
+*(Or go to the pdf Presentation Page 14)*
 
 ### 2. Contact Support
 We created a simple way for students to ask for help.
