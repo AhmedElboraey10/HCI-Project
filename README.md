@@ -50,25 +50,26 @@ We created a simple way for students to ask for help.
 * **Clear Forms:** Large input boxes that are easy to tap on touch screens.
 * **Distraction-Free:** We removed unnecessary elements so students can focus on writing their message.
 
-[![Contact Desktop](Images/contact-support-Desktop.png)]
-[![Contact Mobile](Images/contact-support-mobile.png)]
-*(Click images to view details or go to the pdf Presentation Page 15)*
+<img src="hci-project/Presentation/Images/contact-support-Desktop.png" width=75%> <img src="hci-project/Presentation/Images/contact-support-mobile.png" width="24%">
+
+*(Or go to the pdf Presentation Page 15)*
 
 ### 3. Live Chat Support (Smart Layout)
 This is our most advanced feature. The design changes based on the device.
 
 * **Desktop View:** Shows the help information and the chat window side-by-side.
 
-[![Live Chat Desktop](Images/live-chat-Desktop.png)]
-*(Click images to view details or go to the pdf Presentation Page 16)*
+<img src="hci-project/Presentation/Images/live-chat-Desktop.png" width=75%>
+
+*(Or go to the pdf Presentation Page 16)*
 
 * **Mobile View (Split Flow):** To save space on small screens, we split it into two steps:
     1.  **Step 1:** Info Screen (Working hours & "Start" button).
     2.  **Step 2:** The Chat Interface (Scrolls down smoothly).
 
-[![Live Chat Mobile 1](Images/live-chat-1-mobile.png)]
-[![Live Chat Mobile 2](Images/live-chat-2-mobile.png)]
-*(Click images to view details or go to the pdf Presentation Page 17)*
+<img src="hci-project/Presentation/Images/live-chat-1-mobile.png" width=49%> <img src="hci-project/Presentation/Images/live-chat-2-mobile.png" width="49%">
+
+*(Or go to the pdf Presentation Page 17)*
 
 ---
 
