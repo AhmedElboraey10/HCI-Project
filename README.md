@@ -50,7 +50,7 @@ We created a simple way for students to ask for help.
 * **Clear Forms:** Large input boxes that are easy to tap on touch screens.
 * **Distraction-Free:** We removed unnecessary elements so students can focus on writing their message.
 
-<img src="hci-project/Presentation/Images/contact-support-Desktop.png" width=80%> <img src="hci-project/Presentation/Images/contact-support-mobile.png" width="19%">
+<img src="hci-project/Presentation/Images/contact-support-Desktop.png" width=79%> <img src="hci-project/Presentation/Images/contact-support-mobile.png" width="20%">
 
 *(Or go to the pdf Presentation Page 15)*
 
