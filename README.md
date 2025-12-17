@@ -41,7 +41,7 @@ We made it easy to find answers without reading too much text.
 * **Expandable Lists:** Answers are hidden until you click the question. This keeps the page clean.
 * **Mobile Friendly:** It looks great on small screens.
 
-<img src="hci-project/Presentation/Images/faq-Desktop.png" width=70%> <img src="hci-project/Presentation/Images/faq-mobile.png" width="30%">
+<img src="hci-project/Presentation/Images/faq-Desktop.png" width=60%> <img src="hci-project/Presentation/Images/faq-mobile.png" width="40%">
 
 *(Or go to the pdf Presentation Page 14)*
 
