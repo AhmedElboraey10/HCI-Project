@@ -27,7 +27,7 @@ The old design had several critical issues:
 ## The Solution (After)
 We redesigned the portal to be structured and user-friendly.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="hci-project/Presentation/Images/after.png" width=60%>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="hci-project/Presentation/Images/after.png" width=60%>
 
 ### 1. The Dashboard (Homepage)
 * **Big Search Bar:** We placed a large search bar in the center for quick access.
