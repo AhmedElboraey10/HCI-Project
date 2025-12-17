@@ -21,7 +21,7 @@ The old design had several critical issues:
 * **Inconsistent Icons:** Different shapes and sizes made it confusing.
 * **Bad Experience:** The messy look frustrated students.
 
-<img src="hci-project/Presentation/Images/before.png" width=80%>
+&emsp; <img src="hci-project/Presentation/Images/before.png" width=80%>
 ---
 
 ## The Solution (After)
