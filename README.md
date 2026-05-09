@@ -91,6 +91,5 @@ We applied core Human-Computer Interaction principles to ensure success:
 
 ##  Team Members:
 1.  **Ahmed Mohamed Elsayed Mohamed Elboray**
-2.  **Mahmoud Elhussieny Mohamed Mady**
 
 ---
