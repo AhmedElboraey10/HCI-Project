@@ -195,4 +195,32 @@
         </div>
     </section>
 </body>
+    <script>
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const faqQuestions = document.querySelectorAll('.faq-question');
+
+            faqQuestions.forEach(question => {
+                question.addEventListener('click', () => {
+                    const faqItem = question.parentElement;
+                    const faqAnswer = question.nextElementSibling;
+                    
+                    faqQuestions.forEach(otherQuestion => {
+                        if (otherQuestion !== question) {
+                            otherQuestion.parentElement.classList.remove('active');
+                            otherQuestion.nextElementSibling.style.maxHeight = null;
+                        }
+                    });
+
+                    faqItem.classList.toggle('active');
+                    if (faqAnswer.style.maxHeight) {
+                        faqAnswer.style.maxHeight = null;
+                    } else {
+                        faqAnswer.style.maxHeight = faqAnswer.scrollHeight + "px";
+                    }
+                });
+            });
+        });
+        
+    </script>
 </html>
