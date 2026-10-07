@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Help Center & Support</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+        <link rel="stylesheet" href="style/support.css">
+    </head>
+    <body>
+
+        <section class="contact-support" id="support">
+            <div class="image">
+                <div class="content">
+                    <h2>We're Here to Help</h2>
+                    <p>
+                        Having trouble accessing the portal or need technical assistance?<br>
+                        Our support team is dedicated to ensuring a smooth learning experience 
+                        for every student.
+                    </p>
+                </div>
+            </div>
+
+            <div class="form">
+                <div class="content">
+                    <h2>Contact Support</h2>
+                    <form action="">
+                        <input class="input" type="text" placeholder="Your Name" name="name" aria-label="Your Name" required />
+                        <input class="input" type="email" placeholder="Your Email" name="email" aria-label="Your Email" required />
+                        <textarea class="input" placeholder="Describe your problem..." name="message" aria-label="Message" required></textarea>
+                        <input type="submit" value="Send Message" />
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <section class="chat-section" id="chat">
+            <div class="container">
+                <div class="chat-content-wrapper">
+                    <div class="chat-info">
+                        <div class="info-content">
+                            <div class="status-badge">
+                                <span class="pulse-dot"></span>
+                                <span>Support is Online</span>
+                            </div>
+                            <h2>Live Chat Support</h2>
+                            <p class="main-desc">
+                                Need immediate help? Our IT team is ready to assist you in real-time.
+                            </p>
+                            <div class="info-grid">
+                                <div class="info-item">
+                                    <span class="icon">🕒</span>
+                                    <div class="text">
+                                        <strong>Working Hours</strong>
+                                        <span>8:00 AM - 3:00 PM</span>
+                                    </div>
+                                </div>
+                                <div class="info-item">
+                                    <span class="icon">🔑</span>
+                                    <div class="text">
+                                        <strong>Key Services</strong>
+                                        <span>Password Reset • Access</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <button class="start-chat-btn" type="button" data-scroll-target=".chat-card-container">
+                                Start Chatting
+                                <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="chat-card-container">
+                        <div class="chat-card">
+                            <div class="chat-header">
+                                <div class="header-info">
+                                    <h3>IT Support</h3>
+                                </div>
+                                <div class="header-icons">
+                                    <i class="fa-solid fa-phone" aria-hidden="true"></i>
+                                    <i class="fa-solid fa-ellipsis-vertical" aria-hidden="true"></i>
+                                </div>
+                            </div>
+                            <div class="chat-body" id="chatBody">
+                                <div class="message bot">
+                                    <div class="avatar">
+                                        <i class="fa-solid fa-robot" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="text">
+                                        <p>Hello! 👋 Welcome to the Student Portal Support.</p>
+                                    </div>
+                                </div>
+                                <div class="message user">
+                                    <div class="text">
+                                        <p>I forgot my password for Raz-Kids.</p>
+                                    </div>
+                                    <div class="avatar">
+                                        <i class="fa-solid fa-user" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                                <div class="message bot">
+                                    <div class="avatar">
+                                        <i class="fa-solid fa-robot" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="text">
+                                        <p>No problem! Use the <b>"Password Change Tool"</b> on the dashboard.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="chat-footer">
+                                <form id="chatForm">
+                                    <button type="button" class="icon-btn">
+                                        <i class="fa-solid fa-paperclip" aria-hidden="true"></i>
+                                    </button>
+                                    <div class="input-wrapper">
+                                        <input type="text" placeholder="Type your Message" id="chatInput" autocomplete="off" required>
+                                        <button type="button" class="icon-btn">
+                                            <i class="fa-regular fa-face-smile" aria-hidden="true"></i>
+                                        </button>
+                                    </div>
+                                    <button type="submit" class="send-btn">
+                                        <i class="fa-solid fa-paper-plane" aria-hidden="true"></i>
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq-section" id="faq" dir="ltr">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Frequently Asked Questions</h2>
+                    <p>Common questions from students and parents</p>
+                </div>
+                <div class="faq-list">
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h3>How do I reset my password?</h3>
+                            <div class="arrow-parent"><span class="arrow"></span></div>
+                        </div>
+                        <div class="faq-answer">
+                            <p>You can use the "Password Change Tool" icon on the main dashboard. If that doesn't work, please contact your homeroom teacher.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h3>How do I access Google Classroom?</h3>
+                            <div class="arrow-parent"><span class="arrow"></span></div>
+                        </div>
+                        <div class="faq-answer">
+                            <p>Click on the "Google Drive" icon, log in with your school email, and then look for the Classroom icon in the Google Apps menu.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h3>My Chromebook isn't working, what do I do?</h3>
+                            <div class="arrow-parent"><span class="arrow"></span></div>
+                        </div>
+                        <div class="faq-answer">
+                            <p>Please bring your Chromebook to the school library/tech center for a check-up. We might need to swap it for a temporary one.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h3>Can I access these tools from home?</h3>
+                            <div class="arrow-parent"><span class="arrow"></span></div>
+                        </div>
+                        <div class="faq-answer">
+                            <p>Yes! The Student Portal is available 24/7 from any device with internet access.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h3>Do I need a separate password for Raz-Kids?</h3>
+                            <div class="arrow-parent"><span class="arrow"></span></div>
+                        </div>
+                        <div class="faq-answer">
+                            <p>In most cases, no. Just click the icon on the dashboard, and you will be logged in automatically. If asked, use your school email and password.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h3>Where can parents view grades?</h3>
+                            <div class="arrow-parent"><span class="arrow"></span></div>
+                        </div>
+                        <div class="faq-answer">
+                            <p>This portal is for student learning tools only. Parents should visit the "Parent Portal" link on the main school website to view attendance and report cards.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script src="scripts.js" defer></script>
+    </body>
+</html>

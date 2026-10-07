@@ -21,13 +21,13 @@ The old design had several critical issues:
 * **Inconsistent Icons:** Different shapes and sizes made it confusing.
 * **Bad Experience:** The messy look frustrated students.
 
-&emsp;&emsp;&emsp;&emsp;<img src="hci-project/Presentation/Images/before.png" width=80%>
+&emsp;&emsp;&emsp;&emsp;<img src="Presentation/Images/before.png" width=80%>
 ---
 
 ## The Solution (After)
 We redesigned the portal to be structured and user-friendly.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="hci-project/Presentation/Images/after.png" width=60%>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="Presentation/Images/after.png" width=60%>
 
 ### 1. The Dashboard (Homepage)
 * **Big Search Bar:** We placed a large search bar in the center for quick access.
@@ -44,7 +44,7 @@ We made it easy to find answers without reading too much text.
 * **Expandable Lists:** Answers are hidden until you click the question. This keeps the page clean.
 * **Mobile Friendly:** It looks great on small screens.
 
-<img src="hci-project/Presentation/Images/faq-Desktop.png" width=75%> <img src="hci-project/Presentation/Images/faq-mobile.png" width="24%">
+<img src="Presentation/Images/faq-Desktop.png" width=75%> <img src="Presentation/Images/faq-mobile.png" width="24%">
 
 *(Or go to the pdf Presentation Page 14)*
 
@@ -53,7 +53,7 @@ We created a simple way for students to ask for help.
 * **Clear Forms:** Large input boxes that are easy to tap on touch screens.
 * **Distraction-Free:** We removed unnecessary elements so students can focus on writing their message.
 
-<img src="hci-project/Presentation/Images/contact-support-Desktop.png" width=79%> <img src="hci-project/Presentation/Images/contact-support-mobile.png" width="20%">
+<img src="Presentation/Images/contact-support-Desktop.png" width=79%> <img src="Presentation/Images/contact-support-mobile.png" width="20%">
 
 *(Or go to the pdf Presentation Page 15)*
 
@@ -62,7 +62,7 @@ This is our most advanced feature. The design changes based on the device.
 
 * **Desktop View:** Shows the help information and the chat window side-by-side.
 
-<img src="hci-project/Presentation/Images/live-chat-Desktop.png" width=100%>
+<img src="Presentation/Images/live-chat-Desktop.png" width=100%>
 
 *(Or go to the pdf Presentation Page 16)*
 
@@ -71,9 +71,9 @@ This is our most advanced feature. The design changes based on the device.
     2.  **Step 2:** The Chat Interface (Scrolls down smoothly).
 
 <p align="center">
-  <img src="hci-project/Presentation/Images/live-chat-1-mobile.png" width="28%" hspace="20">
+  <img src="Presentation/Images/live-chat-1-mobile.png" width="28%" hspace="20">
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="hci-project/Presentation/Images/live-chat-2-mobile.png" width="28%" hspace="20">
+  <img src="Presentation/Images/live-chat-2-mobile.png" width="28%" hspace="20">
 </p>
 
 *(Or go to the pdf Presentation Page 17)*
