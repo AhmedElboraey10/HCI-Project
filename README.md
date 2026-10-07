@@ -1,5 +1,13 @@
 # Elementary Student Portal Redesign (HCI Task)
 
+<div align="center">
+  <a href="https://ahmedelboraey10.github.io/HCI-Project/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Try%20It%20Now-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
+
+<br/>
+
 This project is a redesign of an Elementary Student Portal. The goal was to apply **Human-Computer Interaction (HCI)** principles to fix usability issues and create a better experience for young students.
 
 ## Project Overview
@@ -80,7 +88,7 @@ This is our most advanced feature. The design changes based on the device.
 
 ---
 
-##  HCI Principles Used
+## HCI Principles Used
 We applied core Human-Computer Interaction principles to ensure success:
 * **Visibility:** Important things (like Search) are big and easy to see.
 * **Affordance:** Buttons look clickable.
@@ -89,7 +97,5 @@ We applied core Human-Computer Interaction principles to ensure success:
 
 ---
 
-##  Team Members:
+## Team Members:
 1.  **Ahmed Mohamed Elsayed Mohamed Elboray**
-
----
